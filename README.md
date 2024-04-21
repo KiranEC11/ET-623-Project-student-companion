@@ -1,3 +1,8 @@
+# Presentation slides: 
+https://github.com/KiranEC11/ET-623-Project-student-companion/blob/main/presentation/ET623_TEAM12.pdf
+
+________________________________________________________
+
 # Demo Videos:
 ## - Content based Course recommender: https://drive.google.com/file/d/1X4oPzvCBPk92dUcXIp_bg8iF1RHfufDN/view?usp=drive_link
 ![alt text](image.png)
