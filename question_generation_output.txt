@@ -1,0 +1,75 @@
+1
+ What type of learning method is the k-nearest neighbors algorithm?
+a) Supervised learning
+b) Unsupervised learning
+c) Reinforcement learning
+d) Semi-supervised learning
+
+Answer: a) Supervised learning
+
+2
+ In k-NN classification, how is an object classified?
+a) Randomly
+b) By majority vote of its neighbors
+c) By distance from the centroid
+d) By the value of the farthest neighbor
+
+Answer: b) By majority vote of its neighbors
+
+3
+ What is the output in k-NN regression?
+a) Class membership
+b) Average of the k nearest neighbors' values
+c) Property value
+d) All of the above
+
+Answer: b) Average of the k nearest neighbors' values
+
+4
+ What does k represent in the k-nearest neighbors algorithm?
+a) Number of dimensions
+b) Number of neighbors to consider
+c) Distance measure
+d) None of the above
+
+Answer: b) Number of neighbors to consider
+
+5
+ Why is normalizing the training data important for k-NN algorithm?
+Answer: Normalizing the training data is important because k-NN relies on distance for classification, and if features have different physical units or vastly different scales, normalizing the data can improve accuracy dramatically
+
+
+6
+ Who were the developers of the k-nearest neighbors algorithm?
+Answer: Evelyn Fix and Joseph Hodges were the first developers of the k-nearest neighbors algorithm, later expanded by Thomas Cover
+
+
+7
+ What is the difference between k-NN classification and regression?
+Answer: In k-NN classification, the output is a class membership, while in k-NN regression, the output is the average property value of the k nearest neighbors
+
+
+8
+ What can be done to improve accuracy in k-NN by assigning weights to neighbors' contributions?
+Answer: By assigning weights to the contributions of neighbors, the algorithm can ensure that nearer neighbors have more influence on the average than more distant ones
+
+
+9
+ How does the k-NN algorithm approximate the function?
+Answer: The k-NN algorithm approximates the function locally, deferring all computation until function evaluation
+
+
+10
+ How does the algorithm behave when k = 1 in k-NN regression?
+Answer: When k = 1, the output is simply assigned to the value of the single nearest neighbor
+
+
+
+
+
+
+
+What is the main purpose of the k-nearest neighbors algorithm? a) Clustering data points b) Classifying data points c) Predicting continuous values d) Dimensionality reduction
+
+
+
